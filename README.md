@@ -21,3 +21,6 @@ GearCountCam.m
 必要です。状況に応じてインストールして
 ください。
 
+# 処理手順
+
+![5](https://user-images.githubusercontent.com/31681741/36299490-8aecdd04-1340-11e8-995e-db92e5aae6c4.PNG)
